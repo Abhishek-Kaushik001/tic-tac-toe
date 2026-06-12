@@ -65,7 +65,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: column;
-grid-area: 4rem;
+gap: 4rem;
 }
 
 .hide{

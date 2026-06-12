@@ -1,25 +1,34 @@
-# Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
-## Features
+## ✨ Features
 
-- Two-player game (X and O)
+- Two-player gameplay (X and O)
 - Winner detection
 - Reset Game button
 - New Game button
+- Responsive design
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## How to Run
+## 🚀 How to Run
 
-1. Open index.html in your browser.
-2. Start playing the game.
+Open `index.html` in your browser and start playing.
 
-## Author
+## 📚 Concepts Used
 
-Abhishek Kaushik
+- DOM Manipulation
+- Event Listeners
+- Arrays
+- Loops
+- Functions
+- CSS Flexbox
+
+## 👨‍💻 Author
+
+**Abhishek Kaushik**
