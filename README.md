@@ -31,9 +31,9 @@ Open `index.html` in your browser and start playing.
 - Functions
 - CSS Flexbox
 
-  ## 🌐 Live Demo
+🔗 ## 🌐 Live Demo
 
-🔗 https://abhishek-kaushik001.github.io/tic-tac-toe/
+https://tic-tac-toe-smoky-alpha.vercel.app
 
 ## 👨‍💻 Author
 
