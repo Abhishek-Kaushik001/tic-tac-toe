@@ -1,6 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
-A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+A responsive Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
 
 ## ✨ Features
 
@@ -9,6 +10,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Reset Game button
 - New Game button
 - Responsive design
+- Draw Detection
 
 ## 🛠️ Technologies Used
 
