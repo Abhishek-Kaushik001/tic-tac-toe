@@ -31,6 +31,10 @@ Open `index.html` in your browser and start playing.
 - Functions
 - CSS Flexbox
 
+  ## 🌐 Live Demo
+
+🔗 https://abhishek-kaushik001.github.io/tic-tac-toe/
+
 ## 👨‍💻 Author
 
 **Abhishek Kaushik**
